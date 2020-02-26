@@ -1,0 +1,4 @@
+pycryptodome==3.6.6
+requests>=2.20.0
+prompt_toolkit==3.0
+lxml==4.2.1

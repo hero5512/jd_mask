@@ -23,6 +23,13 @@
 ## 第三方库
 
 - [Requests](http://docs.python-requests.org/en/master/)
+- [pycryptodome](https://pypi.org/project/pycryptodome/)
+- [prompt_toolkit==3.0](https://python-prompt-toolkit.readthedocs.io/en/master/)
+- [lxml](https://pypi.org/project/lxml/)
+
+安装：
+
+pip install -r requirements.txt
 
 ## 使用教程
 
